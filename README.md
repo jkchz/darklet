@@ -1,2 +1,3 @@
-# darklet
-personal learning project
+# EIS
+这是自己参照相关资料开发的一个简单的增删改查功能实现的小程序，目前只完成了用户管理部分的功能，其他模块的功能后续会补全！
+这套系统的开发环境是Eclipse,基于Springboot+BootStrap+JPA实现！
